@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM.MVC", "HRM.MVC.csproj", "{0295EC0B-9C0E-4390-92BC-C2B11455CD10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM.API", "..\HRM.API\HRM.API.csproj", "{BB6464A6-1D90-4E54-86D5-87FEA0ECEA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0295EC0B-9C0E-4390-92BC-C2B11455CD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0295EC0B-9C0E-4390-92BC-C2B11455CD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0295EC0B-9C0E-4390-92BC-C2B11455CD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0295EC0B-9C0E-4390-92BC-C2B11455CD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6464A6-1D90-4E54-86D5-87FEA0ECEA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6464A6-1D90-4E54-86D5-87FEA0ECEA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6464A6-1D90-4E54-86D5-87FEA0ECEA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6464A6-1D90-4E54-86D5-87FEA0ECEA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0075B4F7-B468-4A49-84E0-84415671EBE0}
+	EndGlobalSection
+EndGlobal

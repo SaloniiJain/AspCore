@@ -1,0 +1,14 @@
+D:\AspCoreAssignment\HRM.API\bin\Debug\netcoreapp2.1\HRM.API.deps.json
+D:\AspCoreAssignment\HRM.API\bin\Debug\netcoreapp2.1\HRM.API.runtimeconfig.json
+D:\AspCoreAssignment\HRM.API\bin\Debug\netcoreapp2.1\HRM.API.runtimeconfig.dev.json
+D:\AspCoreAssignment\HRM.API\bin\Debug\netcoreapp2.1\HRM.API.dll
+D:\AspCoreAssignment\HRM.API\bin\Debug\netcoreapp2.1\HRM.API.pdb
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.csproj.CoreCompileInputs.cache
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.RazorAssemblyInfo.cache
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.RazorAssemblyInfo.cs
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.AssemblyInfoInputs.cache
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.AssemblyInfo.cs
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.RazorTargetAssemblyInfo.cache
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.dll
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.pdb
+D:\AspCoreAssignment\HRM.API\obj\Debug\netcoreapp2.1\HRM.API.csprojAssemblyReference.cache
