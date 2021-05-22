@@ -1,0 +1,55 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/Customers/CustomerList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44316
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/Customers/CustomerList",
+      "UpstreamHttpMethod": [ "Get" ],
+      //"AuthenticationOptions": {
+        //"AuthenticationProviderKey": "TestKey",
+        //"AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamPathTemplate": "/api/Authentication/login",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44363
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/Authentication/login",
+      "UpstreamHttpMethod": [ "Post" ],
+      //"AuthenticationOptions": {
+        //"AuthenticationProviderKey": "TestKey",
+        //"AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamPathTemplate": "/api/Authentication/verify",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44363
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/Authentication/verify",
+      "UpstreamHttpMethod": [ "Get" ],
+      //"AuthenticationOptions": {
+        //"AuthenticationProviderKey": "TestKey",
+        //"AllowedScopes": []
+      //}
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:49686"
+  }
+}
